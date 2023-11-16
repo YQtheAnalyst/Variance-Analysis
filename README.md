@@ -34,6 +34,7 @@ It compares the budgeted figures to the forecasted ones for a specific period of
 ### Build Dashboard
 
 Please refer to the file Dashboard.jpeg
+The dashboard is built in Excel with 5 graphs, which aim to answer the business questions.
 
 ### Report
 Please refer to the file Report.pptx
@@ -41,7 +42,7 @@ This report contains the insights uncovered from the dashboard, which also answe
 
 1. Risk: Overestimation of budgets in some Business / IT areas
 
-2. Opportunities: Increase investment in the USA market
+2. Opportunity: Increase budget in the USA market
 
 *** Extra Information:
 The dataset is from http://obvience.com/
