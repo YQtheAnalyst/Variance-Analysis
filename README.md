@@ -21,18 +21,23 @@ Based on the above problems, two main performance metrics will be calculated, wh
 
 - Plan vs Actual Variance = Plan - Actual
 
-- Plan vs Actual Percentage Variance
+- Plan vs Actual Percentage Variance = (Plan - Actual) / Actual
 
 It compares the budget figure to the actual results for a specific period of time. It can analyse how well company X adhered to its initial budget and identify the reasons for any differences between them. It can help in performance valuation, identifying areas of improvement, and making adjustments to future budgets based on the actual outcomes.
 
 - Plan vs Forecast Variance = Plan - Forecast
 
-- Plan vs Forecast Percentage Variance
+- Plan vs Forecast Percentage Variance = (Plan - Forecast) / Forecast
 
 It compares the budgeted figures to the forecasted ones for a specific period of time. It can help Company X adapt to changing circumstances and make informed decisions.
 
 ### Build Dashboard
 
-Please refer to the file "Dashboard.jpeg"
+Please refer to the file Dashboard.jpeg
 
-### Insights
+### Report
+Please refer to the file Report.pptx
+This report contains the insights uncovered from the dashboard, which also answer the questions of the financial officer. It also discusses the corresponding risks and opportunities.
+
+*** Extra Information:
+The dataset is from http://obvience.com/
