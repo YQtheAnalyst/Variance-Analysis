@@ -37,7 +37,11 @@ Please refer to the file Dashboard.jpeg
 
 ### Report
 Please refer to the file Report.pptx
-This report contains the insights uncovered from the dashboard, which also answer the questions of the financial officer. It also discusses the corresponding risks and opportunities.
+This report contains the insights uncovered from the dashboard, which also answer the questions of the financial officer. It also discusses one risk and one opportunity.
+
+1. Risk: Overestimation of budgets in some Business / IT areas
+
+2. Opportunities: Increase investment in the USA market
 
 *** Extra Information:
 The dataset is from http://obvience.com/
